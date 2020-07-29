@@ -1,1 +1,1 @@
-# Python Almaz-еврей
+# Python
